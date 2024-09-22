@@ -1,7 +1,11 @@
 DadjokesExtension is a delightful Chrome extension that brings a smile to your face by delivering a fresh joke every time you open a new tab. 🎉
+
 Features
+
 Random Jokes: Get a new joke each time you open a tab.
+
 Installation
+
 Clone the Repository: Start by cloning this repository to your local machine.
 Load the Extension:
 Open Chrome.
